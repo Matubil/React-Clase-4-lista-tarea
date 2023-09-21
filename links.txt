@@ -1,2 +1,5 @@
 Extension = 
 Simple React Snippets
+
+Para usar estilo notificaciones o mensajes temporales, estilo sweetalert, pero para avisar cosas
+react-toastify          //es un paquete de npm
